@@ -1,0 +1,32 @@
+2026-10-11 01:03:27,675 - INFO - package: mysql.connector.plugins
+2026-10-11 01:03:27,676 - INFO - plugin_name: mysql_native_password
+2026-10-11 01:03:27,677 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-10-11 01:03:27,682 - ERROR - Connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES))
+2026-10-11 01:04:41,811 - INFO - package: mysql.connector.plugins
+2026-10-11 01:04:41,811 - INFO - plugin_name: mysql_native_password
+2026-10-11 01:04:41,813 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-10-11 01:04:41,814 - INFO - Connected to pilates_studio_db as root
+2026-10-11 01:04:41,887 - INFO - Successfully executed: Query 1: Alphabetical Client Directory
+2026-10-11 01:04:41,890 - INFO - Successfully executed: Query 2: High-Capacity Session Filtering
+2026-10-11 01:04:41,893 - INFO - Successfully executed: Query 3: Client Membership Tier Mapping
+2026-10-11 01:04:41,898 - INFO - Successfully executed: Query 4: Complete Class Schedule Overview
+2026-10-11 01:04:41,902 - INFO - Successfully executed: Query 5: Overall Booking Status Summary
+2026-10-11 01:04:41,904 - INFO - Successfully executed: Query 6: Dynamic Client Age Calculation
+2026-10-11 01:04:41,906 - INFO - Successfully executed: Query 7: Popular Sessions Identification
+2026-10-11 01:04:41,909 - INFO - Successfully executed: Query 8: Real-Time Session Capacity & Available Spots
+2026-10-11 01:04:41,911 - INFO - Successfully executed: Query 9: Monthly Client Booking Allocation Audit
+2026-10-11 01:04:41,914 - INFO - Successfully executed: Query 10: Class Type Performance & Attendance Rate Breakdown
+2026-10-11 04:23:34,390 - INFO - package: mysql.connector.plugins
+2026-10-11 04:23:34,390 - INFO - plugin_name: mysql_native_password
+2026-10-11 04:23:34,392 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-10-11 04:23:34,394 - INFO - Connected to pilates_studio_db as root
+2026-10-11 04:23:34,400 - INFO - Successfully executed: Query 1: Alphabetical Client Directory
+2026-10-11 04:23:34,401 - INFO - Successfully executed: Query 2: High-Capacity Session Filtering
+2026-10-11 04:23:34,402 - INFO - Successfully executed: Query 3: Client Membership Tier Mapping
+2026-10-11 04:23:34,404 - INFO - Successfully executed: Query 4: Complete Class Schedule Overview
+2026-10-11 04:23:34,405 - INFO - Successfully executed: Query 5: Overall Booking Status Summary
+2026-10-11 04:23:34,407 - INFO - Successfully executed: Query 6: Dynamic Client Age Calculation
+2026-10-11 04:23:34,408 - INFO - Successfully executed: Query 7: Popular Sessions Identification
+2026-10-11 04:23:34,410 - INFO - Successfully executed: Query 8: Real-Time Session Capacity & Available Spots
+2026-10-11 04:23:34,412 - INFO - Successfully executed: Query 9: Monthly Client Booking Allocation Audit
+2026-10-11 04:23:34,414 - INFO - Successfully executed: Query 10: Class Type Performance & Attendance Rate Breakdown
