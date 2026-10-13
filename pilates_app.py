@@ -1,3 +1,11 @@
+# Group Name: Cache Injectors
+#
+# Group Members:
+# 1. Richard Mulaudzi - 4343883
+# 2. Reabetswe Selepe - 4462904
+# 3. Tondani Mukwevho - 4495953
+# 4. Aphelele Simelane - 4391966
+# 5. Cush Nethanani - 4489773
 import mysql.connector
 from mysql.connector import Error
 from tabulate import tabulate
